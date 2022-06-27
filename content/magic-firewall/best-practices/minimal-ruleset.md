@@ -71,4 +71,4 @@ The list below is a common list of traffic types you should also consider blocki
 
 If relevant to your environment, consider blocking based on GeoIP, which blocks traffic based on the country or user when an end user's IP address is registered in the GeoIP database.
 
-If you are interested in participating in the beta for [Session Initiation Protocol (SIP) Validation](https://blog.cloudflare.com/programmable-packet-filtering-with-magic-firewall/), contact your Implementation Manager.
+If you are interested in participating in the beta for [Session Initiation Protocol (SIP) Validation](https://blog.cloudflare.com/programmable-packet-filtering-with-magic-firewall/), contact your Customer Success Manager.
